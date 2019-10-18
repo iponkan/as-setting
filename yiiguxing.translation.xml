@@ -1,0 +1,54 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="may assume that" />
+      <item value="assume that" />
+      <item value="Scantron" />
+      <item value="Inconsistency" />
+      <item value="fade" />
+      <item value="yet neither overrides the other" />
+      <item value=" erasure, " />
+      <item value="exponent" />
+      <item value="modulus" />
+      <item value="Paragraph" />
+      <item value="exception" />
+      <item value="EXCEPTION" />
+      <item value="FATAL" />
+      <item value="Disposable" />
+      <item value="synonym" />
+      <item value="Flush both input and output ports of the component" />
+      <item value="Flush" />
+      <item value="Extractor" />
+      <item value="despite" />
+      <item value="composer" />
+      <item value="the period of time between emissions of the subsequent numbers" />
+      <item value="inclusive" />
+      <item value="restrictions" />
+      <item value="violating" />
+      <item value="explicit" />
+      <item value="explicitly" />
+      <item value="chain" />
+      <item value="concrete" />
+      <item value="Observes" />
+      <item value="short-circuits" />
+      <item value="potentially" />
+      <item value="host name" />
+      <item value="domain" />
+      <item value="unknown Host Exception" />
+      <item value="Broken" />
+      <item value="multicast" />
+      <item value="Components" />
+      <item value="if more specific data is not available" />
+      <item value="event if" />
+      <item value="The adapter may publish a variety of events describing specific changes. * Not all adapters may support all change types and some may fall back to a generic * {@link RecyclerView.AdapterDataObserver#onChanged() * &quot;something changed&quot;} event if more specific data is not available." />
+      <item value="Not all adapters may support all change types and some may fall back to a generic * {@link RecyclerView.AdapterDataObserver#onChanged() * &quot;something changed&quot;} event if more specific data is not available" />
+      <item value="fall back" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
+      </map>
+    </option>
+  </component>
+</application>
