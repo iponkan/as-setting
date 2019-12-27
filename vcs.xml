@@ -150,6 +150,14 @@
           <option name="url" value="git@github.com:j2rong/FakeLocation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Foso/Jetpack-Compose-Playground.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Foso/Jetpack-Compose-Playground.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code\open" />
