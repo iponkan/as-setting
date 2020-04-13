@@ -5,6 +5,7 @@
       <mapping ext="tflite" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="yota_ratingbar_progress_drawable" type="XML" />
+      <mapping pattern="layout_popwindow" type="XML" />
       <mapping pattern="styles" type="XML" />
     </extensionMap>
   </component>
