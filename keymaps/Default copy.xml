@@ -13,10 +13,14 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="Gsonformat" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="SaveAll" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
