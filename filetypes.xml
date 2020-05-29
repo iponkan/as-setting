@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="know_ledge_search_result.json" type="PLAIN_TEXT" />
+      <mapping ext="tflite" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
+      <mapping pattern="yota_ratingbar_progress_drawable" type="XML" />
+      <mapping pattern="layout_popwindow" type="XML" />
+      <mapping pattern="styles" type="XML" />
+    </extensionMap>
+  </component>
+</application>
