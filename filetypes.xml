@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="know_ledge_search_result.json" type="PLAIN_TEXT" />
       <mapping ext="tflite" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
