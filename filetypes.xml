@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="global" type="PLAIN_TEXT" />
       <mapping pattern="global.dart" type="PLAIN_TEXT" />
+      <mapping pattern="megviifacepp_0_4_7_model" type="PLAIN_TEXT" />
       <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping pattern="login_background" type="XML" />
     </extensionMap>
